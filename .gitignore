@@ -1,3 +1,5 @@
 .DS_Store
 /data/
 /.ipynb_checkpoints/
+mod.zip
+model_log.txt
