@@ -1,5 +1,7 @@
 .DS_Store
 /data/
 /.ipynb_checkpoints/
+/model/
+testing.ipynb
 mod.zip
 model_log.txt
